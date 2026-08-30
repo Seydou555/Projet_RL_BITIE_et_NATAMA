@@ -1,0 +1,7 @@
+### FrozenLake : évaluation gloutonne finale (100 épisodes par graine)
+
+| Environnement | Algorithme | Épisodes | Graines | Succès glouton (%) | Retour moyen | Longueur moyenne |
+| --- | --- | --- | --- | --- | --- | --- |
+| frozenlake4x4 | Q-learning | 20000 | 10 | 73.6 ± 3.2 | 0.736 ± 0.032 | 42.4 |
+| frozenlake4x4 | SARSA | 20000 | 10 | 73.8 ± 3.7 | 0.738 ± 0.037 | 43.1 |
+| frozenlake4x4 | Expected SARSA | 20000 | 10 | 72.2 ± 6.5 | 0.722 ± 0.065 | 43.7 |

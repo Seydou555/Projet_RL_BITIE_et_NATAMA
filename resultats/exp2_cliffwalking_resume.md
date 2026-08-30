@@ -1,0 +1,7 @@
+### CliffWalking, epsilon fixe = 0.1
+
+| Algorithme | Récompense pendant l'entraînement (dernier quart) | Retour glouton | Longueur gloutonne | Ligne moyenne du chemin | Arrivées atteintes |
+| --- | --- | --- | --- | --- | --- |
+| Q-learning | -50.5 | -13.0 ± 0.0 | 13.0 | 2.14 | 100 % |
+| SARSA | -23.6 | -16.9 ± 0.4 | 16.9 | 0.67 | 100 % |
+| Expected SARSA | -20.9 | -15.0 ± 0.0 | 15.0 | 1.38 | 100 % |
