@@ -168,3 +168,22 @@ Le travail a été réparti comme suit:
 - BITIE Seydou : Cliffwalking
 
 Nous avons ensuite fusionné les travaux en un seul avant de faire le push sur git
+
+## Webographie
+
+- https://medium.com/@priya61197/q-learning-vs-sarsa-b9e433dec930
+- https://www.geeksforgeeks.org/artificial-intelligence/differences-between-q-learning-and-sarsa/
+- https://tcnguyen.github.io/reinforcement_learning/sarsa_vs_q_learning.html
+- https://tcnguyen.github.io/reinforcement_learning/sarsa_vs_q_learning.html
+- https://www.baeldung.com/cs/q-learning-vs-sarsa
+- https://gymnasium.farama.org/environments/toy_text/cliff_walking/
+- https://gymnasium.farama.org/environments/toy_text/frozen_lake/
+- https://medium.com/@mdmohsinkamal/reinforcement-learning-in-action-surviving-the-frozenlake-with-q-learning-and-sarsa-ce1725da42b1
+- https://sesen.ai/blog/q-learning-frozen-lake-from-scratch
+- https://github.com/NiravRaiyani/Reinforcement_Learning
+- https://colab.research.google.com/github/yfletberliac/rlss-2019/blob/master/labs/solutions/RL.DP%2BQLearning%2BSARSA_solution.ipynb
+- https://builtin.com/machine-learning/sarsa
+- https://www.mysimulator.uk/ai-ml/ds-topic-33/
+- https://github.com/SwamiKannan/CliffWalk
+- https://www.geeksforgeeks.org/machine-learning/expected-sarsa-in-reinforcement-learning/
+- https://campus.datacamp.com/fr/courses/reinforcement-learning-with-gymnasium-in-python/advanced-strategies-in-model-free-rl?ex=2
